@@ -1,0 +1,12 @@
+{
+	"name": "Math Jax",
+	"description": "Includes Mathjax script files and settings",
+	"version": "1.1",
+	"date": "2021-12-25",
+	"author": "Varun Sharma",
+	"email":"varuninorbit@gmail.com",
+	"author_uri": "",
+	"license": "GPLv2",
+	"min_q2a": "1.5",
+	"load_order": "after_db_init"
+}
